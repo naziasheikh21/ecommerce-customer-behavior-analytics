@@ -1,0 +1,501 @@
+session_id,user_id,page_type,product_id,time_on_page_s,add_to_cart,purchased,device_type,flag_purchase_without_cart,flag_confirmation_no_purchase,flag_purchase_on_early_page,flag_any_inconsistency,time_bucket,engagement,session_outcome,user_key
+SES00001,U09458,Category,P0224,243,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,813d528817d1
+SES00002,U09200,Home,P0013,67,0,1,Tablet,1,0,1,1,61-120s,Medium (61-180s),Purchase (no cart),cc5af78b9731
+SES00003,U07053,Home,P0169,21,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,48aeb731abbc
+SES00004,U06094,Product,P0358,286,1,0,Tablet,0,0,0,0,241-300s,High (>180s),Cart abandoned,345d77631f77
+SES00005,U07857,Category,P0157,195,0,1,Tablet,1,0,1,1,181-240s,High (>180s),Purchase (no cart),e163c6dd0e02
+SES00006,U05073,Category,P0448,174,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,2bd3227fbe84
+SES00007,U05700,Product,P0459,59,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,2d1f29453db1
+SES00008,U00710,Confirmation,P0241,32,0,0,Mobile,0,1,0,1,0-60s,Low (<=60s),Browse only,014dec9722ca
+SES00009,U06090,Home,P0355,14,1,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,e05d657aca1d
+SES00010,U07870,Product,P0496,154,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,b7ef0ec69651
+SES00011,U03255,Checkout,P0352,17,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,2ffa744d1eba
+SES00012,U05039,Confirmation,P0184,91,0,1,Tablet,1,0,0,1,61-120s,Medium (61-180s),Purchase (no cart),ca5c5e736577
+SES00013,U02985,Product,P0396,26,1,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,966d68bf452a
+SES00014,U08767,Confirmation,P0279,273,0,1,Tablet,1,0,0,1,241-300s,High (>180s),Purchase (no cart),877dbca1e449
+SES00015,U05481,Cart,P0025,38,0,1,Tablet,1,0,0,1,0-60s,Low (<=60s),Purchase (no cart),a7d44f769aa6
+SES00016,U02687,Checkout,P0098,141,1,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,bada0bb4fbf8
+SES00017,U04051,Category,P0054,21,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,668dfb87b448
+SES00018,U01310,Cart,P0126,142,1,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,aab4deeeb1d2
+SES00019,U06719,Category,P0009,239,1,0,Tablet,0,0,0,0,181-240s,High (>180s),Cart abandoned,46b4aad0cc9b
+SES00020,U04922,Cart,P0405,164,1,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,813c8086e645
+SES00021,U02977,Category,P0266,293,0,1,Tablet,1,0,1,1,241-300s,High (>180s),Purchase (no cart),cd74298ed1c1
+SES00022,U03547,Checkout,P0221,100,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,e8f658bf5cfe
+SES00023,U05435,Checkout,P0115,291,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,aa9c547ecc1a
+SES00024,U08640,Product,P0369,210,1,0,Mobile,0,0,0,0,181-240s,High (>180s),Cart abandoned,7c99e0ae2f6e
+SES00025,U02209,Category,P0257,186,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,322dbcd871e5
+SES00026,U06184,Checkout,P0106,208,1,0,Tablet,0,0,0,0,181-240s,High (>180s),Cart abandoned,7e3c8cc633c5
+SES00027,U02318,Home,P0216,46,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,ed87dbef93c6
+SES00028,U00857,Cart,P0079,32,1,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,a4e52bc7c11b
+SES00029,U00769,Product,P0335,200,1,0,Desktop,0,0,0,0,181-240s,High (>180s),Cart abandoned,2d8812f2bba0
+SES00030,U03365,Confirmation,P0111,246,0,1,Desktop,1,0,0,1,241-300s,High (>180s),Purchase (no cart),59baa28de21a
+SES00031,U00397,Cart,P0135,165,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,c5675a5d63d1
+SES00032,U05182,Product,P0341,294,0,1,Tablet,1,0,1,1,241-300s,High (>180s),Purchase (no cart),60ca661343f4
+SES00033,U04824,Home,P0451,246,1,1,Tablet,0,0,1,1,241-300s,High (>180s),Cart + Purchase,56dc3a4fb0c5
+SES00034,U06898,Home,P0049,76,1,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,e84c431376ca
+SES00035,U02464,Home,P0072,100,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,b21d00afbd17
+SES00036,U06753,Home,P0322,150,1,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,713af1924b8f
+SES00037,U02670,Product,P0180,155,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,37f5d8f6ac96
+SES00038,U07258,Product,P0407,286,1,1,Mobile,0,0,1,1,241-300s,High (>180s),Cart + Purchase,cb8102bb35f0
+SES00039,U03084,Category,P0281,98,1,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,7e1959b43261
+SES00040,U08758,Checkout,P0365,200,1,0,Tablet,0,0,0,0,181-240s,High (>180s),Cart abandoned,aa4d820f4730
+SES00041,U04681,Checkout,P0384,79,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,6de31b663e38
+SES00042,U07144,Checkout,P0491,138,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,4b193f655e00
+SES00043,U07795,Category,P0312,242,0,1,Mobile,1,0,1,1,241-300s,High (>180s),Purchase (no cart),418531c4bf4e
+SES00044,U00396,Home,P0134,191,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,7fc43eba345d
+SES00045,U02265,Confirmation,P0275,62,0,0,Tablet,0,1,0,1,61-120s,Medium (61-180s),Browse only,a35410241337
+SES00046,U08860,Product,P0198,125,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,ef47e5c99cfb
+SES00047,U02144,Category,P0185,174,0,1,Desktop,1,0,1,1,121-180s,Medium (61-180s),Purchase (no cart),80501dc45308
+SES00048,U03267,Category,P0065,90,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,055b9a8ae985
+SES00049,U02502,Product,P0383,261,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,595ba6a589db
+SES00050,U06304,Category,P0107,166,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,fde30946dd11
+SES00051,U00887,Checkout,P0251,59,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,27707adbedb0
+SES00052,U02349,Product,P0012,239,1,1,Mobile,0,0,1,1,181-240s,High (>180s),Cart + Purchase,9e87a45568d7
+SES00053,U01434,Category,P0257,250,1,0,Tablet,0,0,0,0,241-300s,High (>180s),Cart abandoned,b343d1909b4a
+SES00054,U04722,Product,P0186,223,0,1,Mobile,1,0,1,1,181-240s,High (>180s),Purchase (no cart),89ee8b6f5033
+SES00055,U02983,Home,P0212,143,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,5b40bbd2274b
+SES00056,U07996,Home,P0407,89,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,ce67724030af
+SES00057,U09987,Confirmation,P0357,248,0,0,Tablet,0,1,0,1,241-300s,High (>180s),Browse only,4546a57e7390
+SES00058,U04130,Confirmation,P0412,239,0,0,Mobile,0,1,0,1,181-240s,High (>180s),Browse only,1f60a66090e8
+SES00059,U06391,Checkout,P0140,294,1,0,Desktop,0,0,0,0,241-300s,High (>180s),Cart abandoned,8628aae3e0f7
+SES00060,U05205,Cart,P0111,124,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,57c196f61157
+SES00061,U00934,Cart,P0012,220,1,0,Tablet,0,0,0,0,181-240s,High (>180s),Cart abandoned,8712430dedb9
+SES00062,U03058,Product,P0374,77,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,8941fb115201
+SES00063,U06171,Cart,P0030,147,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,cec94265fc2b
+SES00064,U09065,Home,P0482,153,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,a7b2ca264b9f
+SES00065,U07702,Category,P0248,79,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,6dd90cd3e9b4
+SES00066,U00098,Confirmation,P0244,106,1,0,Desktop,0,1,0,1,61-120s,Medium (61-180s),Cart abandoned,cfed5206dc64
+SES00067,U00452,Category,P0292,248,1,0,Tablet,0,0,0,0,241-300s,High (>180s),Cart abandoned,c678cacfca1f
+SES00068,U09993,Category,P0023,148,1,1,Tablet,0,0,1,1,121-180s,Medium (61-180s),Cart + Purchase,39430e9081bf
+SES00069,U03084,Category,P0320,252,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,7e1959b43261
+SES00070,U04487,Product,P0487,179,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,71d692cc21d9
+SES00071,U01148,Confirmation,P0444,147,0,1,Mobile,1,0,0,1,121-180s,Medium (61-180s),Purchase (no cart),7aa6b13e34b5
+SES00072,U01271,Product,P0377,224,1,0,Mobile,0,0,0,0,181-240s,High (>180s),Cart abandoned,b93f4e5410ec
+SES00073,U06274,Category,P0417,90,0,1,Mobile,1,0,1,1,61-120s,Medium (61-180s),Purchase (no cart),a1e863d06d0c
+SES00074,U07602,Confirmation,P0196,289,0,0,Tablet,0,1,0,1,241-300s,High (>180s),Browse only,2288aa28e16b
+SES00075,U00369,Category,P0284,212,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,58b97d757a10
+SES00076,U05909,Category,P0098,205,0,0,Mobile,0,0,0,0,181-240s,High (>180s),Browse only,74c1939f59db
+SES00077,U03700,Checkout,P0089,280,1,0,Desktop,0,0,0,0,241-300s,High (>180s),Cart abandoned,051ca2b7993f
+SES00078,U02475,Home,P0066,90,1,1,Mobile,0,0,1,1,61-120s,Medium (61-180s),Cart + Purchase,019e50c795f1
+SES00079,U04500,Home,P0145,204,1,0,Desktop,0,0,0,0,181-240s,High (>180s),Cart abandoned,c6ab06e4c862
+SES00080,U00854,Home,P0066,56,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,23a341f3011a
+SES00081,U02603,Category,P0006,111,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,258a168ecdfa
+SES00082,U03256,Checkout,P0466,189,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,cdf4e94d4b4c
+SES00083,U02623,Product,P0497,234,0,1,Tablet,1,0,1,1,181-240s,High (>180s),Purchase (no cart),3cee3e8fe16b
+SES00084,U09912,Checkout,P0222,132,1,1,Desktop,0,0,0,0,121-180s,Medium (61-180s),Cart + Purchase,3b7497beacf8
+SES00085,U09877,Product,P0252,270,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,f66a5b4c4f97
+SES00086,U04226,Checkout,P0172,24,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,667cb3b4cdbd
+SES00087,U03721,Category,P0110,241,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,e7799f8b300c
+SES00088,U06584,Cart,P0276,155,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,e4d254f73066
+SES00089,U07834,Category,P0003,71,0,1,Mobile,1,0,1,1,61-120s,Medium (61-180s),Purchase (no cart),d679bcbcb04c
+SES00090,U06450,Category,P0353,182,0,1,Tablet,1,0,1,1,181-240s,High (>180s),Purchase (no cart),9446341e9da3
+SES00091,U05612,Home,P0054,237,1,1,Mobile,0,0,1,1,181-240s,High (>180s),Cart + Purchase,1c77fd9374c5
+SES00092,U02751,Home,P0414,219,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,99530f1a2267
+SES00093,U01497,Checkout,P0395,281,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,74f77e949c76
+SES00094,U00241,Category,P0434,109,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,9305daef154f
+SES00095,U06405,Home,P0094,143,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,8acb882c5290
+SES00096,U00324,Confirmation,P0171,93,0,1,Desktop,1,0,0,1,61-120s,Medium (61-180s),Purchase (no cart),e57eb6c06ce4
+SES00097,U05437,Category,P0002,297,1,0,Tablet,0,0,0,0,241-300s,High (>180s),Cart abandoned,021cf11a8383
+SES00098,U05976,Category,P0121,129,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,22dd634b6779
+SES00099,U09519,Product,P0304,14,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,1e948fa29c62
+SES00100,U02450,Checkout,P0287,181,0,1,Mobile,1,0,0,1,181-240s,High (>180s),Purchase (no cart),3aff993b36de
+SES00101,U05339,Product,P0487,101,1,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,6223ae8c137f
+SES00102,U05976,Product,P0436,225,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,22dd634b6779
+SES00103,U02153,Category,P0040,275,0,1,Mobile,1,0,1,1,241-300s,High (>180s),Purchase (no cart),ab72a0b70e8e
+SES00104,U03000,Home,P0398,228,1,1,Mobile,0,0,1,1,181-240s,High (>180s),Cart + Purchase,4acebd22b2a0
+SES00105,U07682,Home,P0258,204,1,1,Mobile,0,0,1,1,181-240s,High (>180s),Cart + Purchase,2289f7a41366
+SES00106,U02881,Checkout,P0310,162,0,1,Mobile,1,0,0,1,121-180s,Medium (61-180s),Purchase (no cart),08f272121cc6
+SES00107,U04785,Category,P0367,99,1,1,Tablet,0,0,1,1,61-120s,Medium (61-180s),Cart + Purchase,33560171580e
+SES00108,U06397,Product,P0123,166,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,edfae184dc64
+SES00109,U03004,Category,P0225,42,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,af0c578cfa43
+SES00110,U02790,Product,P0196,188,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,d3a9e85e4fdd
+SES00111,U08431,Confirmation,P0329,98,0,0,Desktop,0,1,0,1,61-120s,Medium (61-180s),Browse only,5a68e3dba94b
+SES00112,U02956,Confirmation,P0122,27,1,0,Tablet,0,1,0,1,0-60s,Low (<=60s),Cart abandoned,c148b6b07922
+SES00113,U01918,Confirmation,P0437,141,0,0,Desktop,0,1,0,1,121-180s,Medium (61-180s),Browse only,51e0211e1701
+SES00114,U09807,Category,P0443,184,1,1,Desktop,0,0,1,1,181-240s,High (>180s),Cart + Purchase,91438ac283e6
+SES00115,U05038,Confirmation,P0395,156,0,0,Desktop,0,1,0,1,121-180s,Medium (61-180s),Browse only,ab30fb95eb8e
+SES00116,U05978,Cart,P0378,54,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,a35b07833fec
+SES00117,U05025,Product,P0307,138,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,ac3f74149d39
+SES00118,U00113,Confirmation,P0087,207,0,1,Desktop,1,0,0,1,181-240s,High (>180s),Purchase (no cart),dc9661c6a8ad
+SES00119,U04133,Home,P0161,209,1,0,Desktop,0,0,0,0,181-240s,High (>180s),Cart abandoned,29ad30925cfd
+SES00120,U01520,Checkout,P0123,245,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,9169a3fa8110
+SES00121,U00632,Checkout,P0014,27,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,5bed8cda4a7f
+SES00122,U02730,Confirmation,P0378,73,1,0,Tablet,0,1,0,1,61-120s,Medium (61-180s),Cart abandoned,6861c86b1515
+SES00123,U06201,Confirmation,P0404,196,0,0,Tablet,0,1,0,1,181-240s,High (>180s),Browse only,4fd6f48a899f
+SES00124,U02799,Product,P0297,216,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,d3da962a3430
+SES00125,U08577,Category,P0424,95,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,36f443c6ece8
+SES00126,U07025,Cart,P0308,188,1,0,Tablet,0,0,0,0,181-240s,High (>180s),Cart abandoned,5b6590f96959
+SES00127,U01119,Confirmation,P0009,143,0,0,Desktop,0,1,0,1,121-180s,Medium (61-180s),Browse only,f39bdfdf46a8
+SES00128,U08908,Checkout,P0426,273,0,1,Tablet,1,0,0,1,241-300s,High (>180s),Purchase (no cart),daffb51998d9
+SES00129,U07525,Cart,P0329,124,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,772db4adf17c
+SES00130,U09357,Product,P0104,174,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,e50eab243352
+SES00131,U06090,Cart,P0116,182,0,0,Mobile,0,0,0,0,181-240s,High (>180s),Browse only,e05d657aca1d
+SES00132,U00707,Home,P0386,214,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,c9ee787c3cb5
+SES00133,U05388,Confirmation,P0421,79,0,0,Desktop,0,1,0,1,61-120s,Medium (61-180s),Browse only,980dd68c39f7
+SES00134,U09074,Confirmation,P0063,193,0,0,Mobile,0,1,0,1,181-240s,High (>180s),Browse only,0a836e9e3364
+SES00135,U01430,Product,P0453,7,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,889ba5d882b1
+SES00136,U08199,Checkout,P0416,227,1,0,Desktop,0,0,0,0,181-240s,High (>180s),Cart abandoned,114aec386593
+SES00137,U01825,Checkout,P0144,54,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,828fce0c24c5
+SES00138,U04387,Checkout,P0418,214,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,456af5c72324
+SES00139,U02935,Home,P0464,58,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,3e14f86df83f
+SES00140,U03778,Checkout,P0414,94,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,b75c359853be
+SES00141,U05757,Home,P0243,164,1,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,5a744c9ae40e
+SES00142,U04402,Checkout,P0434,78,1,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,b8b66fc93ae6
+SES00143,U09430,Category,P0464,48,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,18ac3ac35990
+SES00144,U07211,Product,P0486,239,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,06f93f4fdc15
+SES00145,U03914,Category,P0389,212,1,0,Mobile,0,0,0,0,181-240s,High (>180s),Cart abandoned,e4d6423bca5a
+SES00146,U00522,Confirmation,P0133,78,0,0,Desktop,0,1,0,1,61-120s,Medium (61-180s),Browse only,e5d83f5349a9
+SES00147,U05596,Home,P0087,213,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,f5d5c334b4c4
+SES00148,U03958,Product,P0204,286,0,1,Mobile,1,0,1,1,241-300s,High (>180s),Purchase (no cart),0b0d16250faa
+SES00149,U08243,Confirmation,P0060,51,1,0,Mobile,0,1,0,1,0-60s,Low (<=60s),Cart abandoned,5cfdc6b2c29c
+SES00150,U05212,Checkout,P0497,153,0,1,Tablet,1,0,0,1,121-180s,Medium (61-180s),Purchase (no cart),359a039c6e1f
+SES00151,U07971,Cart,P0230,103,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,f2e6f8d92a7d
+SES00152,U06985,Home,P0275,57,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,124c19ca137c
+SES00153,U09711,Cart,P0275,49,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,a8275edc7dfd
+SES00154,U06318,Confirmation,P0173,42,1,0,Desktop,0,1,0,1,0-60s,Low (<=60s),Cart abandoned,49e701e80756
+SES00155,U00240,Home,P0010,83,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,c48f1e280af0
+SES00156,U05970,Category,P0379,79,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,7b75361dbde0
+SES00157,U01398,Category,P0139,177,1,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,3e0a8ddcc884
+SES00158,U08452,Category,P0313,232,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,b3466c3d4c8d
+SES00159,U01947,Confirmation,P0040,178,0,0,Mobile,0,1,0,1,121-180s,Medium (61-180s),Browse only,82f39e997ce6
+SES00160,U01979,Category,P0034,82,1,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,da7fd4e36c59
+SES00161,U06538,Category,P0021,267,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,d9346ded547c
+SES00162,U00769,Home,P0286,241,1,0,Mobile,0,0,0,0,241-300s,High (>180s),Cart abandoned,2d8812f2bba0
+SES00163,U06369,Category,P0007,215,0,1,Desktop,1,0,1,1,181-240s,High (>180s),Purchase (no cart),b8e49931a28a
+SES00164,U07430,Category,P0071,103,1,1,Desktop,0,0,1,1,61-120s,Medium (61-180s),Cart + Purchase,85f7e4ae5ae7
+SES00165,U02214,Category,P0427,256,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,b1fafcb12c45
+SES00166,U09857,Checkout,P0497,49,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,478ef594c1a4
+SES00167,U01179,Checkout,P0242,69,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,56b4baf52b52
+SES00168,U08607,Cart,P0324,26,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,12883740ef53
+SES00169,U02823,Checkout,P0299,59,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,7c8a48e96891
+SES00170,U00194,Home,P0118,197,1,1,Tablet,0,0,1,1,181-240s,High (>180s),Cart + Purchase,c2a67a9d75e1
+SES00171,U03458,Product,P0459,129,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,d98995c1cbda
+SES00172,U07494,Checkout,P0158,8,0,1,Desktop,1,0,0,1,0-60s,Low (<=60s),Purchase (no cart),8f074eefe2b6
+SES00173,U00724,Home,P0185,84,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,2dfa54c3d509
+SES00174,U03716,Category,P0186,78,1,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,49169a9bd086
+SES00175,U06404,Cart,P0144,143,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,f18a6e2adfcb
+SES00176,U00756,Checkout,P0071,195,1,1,Mobile,0,0,0,0,181-240s,High (>180s),Cart + Purchase,6268c8206e64
+SES00177,U02035,Product,P0465,95,0,1,Tablet,1,0,1,1,61-120s,Medium (61-180s),Purchase (no cart),175d7cb3faf2
+SES00178,U05141,Cart,P0425,221,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,8334050d8a65
+SES00179,U04172,Checkout,P0393,5,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,9c2aa9f4b795
+SES00180,U01706,Checkout,P0078,269,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,fc99f5f81a60
+SES00181,U04625,Home,P0208,133,1,1,Desktop,0,0,1,1,121-180s,Medium (61-180s),Cart + Purchase,d6b855b4bcbb
+SES00182,U02371,Cart,P0184,130,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,8552f2abae2d
+SES00183,U09375,Category,P0390,288,0,1,Mobile,1,0,1,1,241-300s,High (>180s),Purchase (no cart),977b01dda92e
+SES00184,U01848,Confirmation,P0264,188,0,0,Tablet,0,1,0,1,181-240s,High (>180s),Browse only,686101f686aa
+SES00185,U05939,Product,P0435,136,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,c54245e06216
+SES00186,U04132,Confirmation,P0495,60,0,0,Tablet,0,1,0,1,0-60s,Low (<=60s),Browse only,11b5d53d291e
+SES00187,U01382,Product,P0477,17,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,504a301152cc
+SES00188,U00619,Cart,P0373,296,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,ee7092ddb6c1
+SES00189,U00189,Cart,P0470,59,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,c6b831f2112b
+SES00190,U00201,Product,P0340,249,0,1,Tablet,1,0,1,1,241-300s,High (>180s),Purchase (no cart),e79b349fef75
+SES00191,U07014,Category,P0040,274,0,1,Mobile,1,0,1,1,241-300s,High (>180s),Purchase (no cart),88906b47c381
+SES00192,U09767,Cart,P0106,229,0,1,Mobile,1,0,0,1,181-240s,High (>180s),Purchase (no cart),9d9398cb79b6
+SES00193,U06400,Cart,P0348,258,1,0,Tablet,0,0,0,0,241-300s,High (>180s),Cart abandoned,f66030c79e2c
+SES00194,U01489,Checkout,P0095,64,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,37b255be8f15
+SES00195,U01092,Home,P0019,21,0,1,Desktop,1,0,1,1,0-60s,Low (<=60s),Purchase (no cart),dbf3d2b96db4
+SES00196,U05238,Home,P0453,158,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,39c35550cd6b
+SES00197,U08816,Checkout,P0431,26,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,f3c57341d474
+SES00198,U03254,Home,P0241,262,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,b422a4646e68
+SES00199,U07941,Product,P0175,180,1,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,a54ea0b10512
+SES00200,U09472,Checkout,P0249,8,1,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,a5e3fba6554d
+SES00201,U05236,Home,P0132,204,1,0,Desktop,0,0,0,0,181-240s,High (>180s),Cart abandoned,f9b2231646ae
+SES00202,U01552,Product,P0026,149,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,7dba42e90356
+SES00203,U05854,Home,P0215,166,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,65206b727432
+SES00204,U02415,Checkout,P0135,117,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,b8dc717065d0
+SES00205,U05309,Home,P0087,285,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,41c64c06daed
+SES00206,U05266,Cart,P0013,108,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,d2ad3b935599
+SES00207,U03349,Home,P0236,16,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,a73cf515d182
+SES00208,U09972,Checkout,P0353,237,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,686a3ed9a022
+SES00209,U05881,Home,P0409,168,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,8b5951fefb17
+SES00210,U06535,Checkout,P0438,105,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,e5d66396f3a7
+SES00211,U00923,Category,P0280,111,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,f2121561534b
+SES00212,U00101,Checkout,P0075,90,1,1,Mobile,0,0,0,0,61-120s,Medium (61-180s),Cart + Purchase,49470ed63f6c
+SES00213,U00010,Cart,P0185,281,0,0,Tablet,0,0,0,0,241-300s,High (>180s),Browse only,f8cb2f09b3d6
+SES00214,U08200,Category,P0481,284,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,7dfdcfe3d78e
+SES00215,U08334,Product,P0068,183,0,0,Mobile,0,0,0,0,181-240s,High (>180s),Browse only,31ebd28dff02
+SES00216,U03268,Product,P0045,289,1,0,Tablet,0,0,0,0,241-300s,High (>180s),Cart abandoned,73f64c1511be
+SES00217,U02287,Checkout,P0438,31,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,7145c36d2993
+SES00218,U00720,Cart,P0157,114,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,363be99c88f1
+SES00219,U04596,Category,P0093,262,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,68575671c95f
+SES00220,U02258,Product,P0450,73,1,1,Desktop,0,0,1,1,61-120s,Medium (61-180s),Cart + Purchase,b5539e2f6df4
+SES00221,U00658,Category,P0162,56,1,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,add74f341d35
+SES00222,U01363,Product,P0142,65,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,74b1a7525428
+SES00223,U07261,Category,P0135,34,0,1,Desktop,1,0,1,1,0-60s,Low (<=60s),Purchase (no cart),dbb860837f8f
+SES00224,U02517,Category,P0362,180,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,1fd8724435a1
+SES00225,U05565,Product,P0195,102,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,c344fc72f1e8
+SES00226,U04737,Product,P0036,40,1,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,6fb884e7693f
+SES00227,U00168,Checkout,P0207,42,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,867e3cc78749
+SES00228,U02166,Category,P0194,283,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,d196bc5eebb5
+SES00229,U06769,Home,P0496,223,0,1,Tablet,1,0,1,1,181-240s,High (>180s),Purchase (no cart),dbd7a0733056
+SES00230,U08287,Checkout,P0111,222,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,1f735e83cebd
+SES00231,U03023,Confirmation,P0394,217,0,1,Desktop,1,0,0,1,181-240s,High (>180s),Purchase (no cart),bf26ccfd8846
+SES00232,U07818,Category,P0363,246,1,0,Desktop,0,0,0,0,241-300s,High (>180s),Cart abandoned,5723647a0ba8
+SES00233,U02855,Confirmation,P0173,128,1,0,Tablet,0,1,0,1,121-180s,Medium (61-180s),Cart abandoned,f1a8e65689f2
+SES00234,U09024,Confirmation,P0073,279,0,0,Desktop,0,1,0,1,241-300s,High (>180s),Browse only,b156f39790e8
+SES00235,U07803,Cart,P0426,58,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,fc062049289c
+SES00236,U06868,Category,P0068,16,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,1f7e45c028ff
+SES00237,U09806,Home,P0111,152,1,1,Mobile,0,0,1,1,121-180s,Medium (61-180s),Cart + Purchase,732af79f06c2
+SES00238,U08583,Product,P0366,180,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,b58dffc4730e
+SES00239,U06625,Product,P0249,173,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,d6ba0f50dc30
+SES00240,U05731,Cart,P0104,294,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,3fc8973e2b15
+SES00241,U06885,Category,P0198,243,1,0,Mobile,0,0,0,0,241-300s,High (>180s),Cart abandoned,233dac6e2726
+SES00242,U06047,Confirmation,P0425,12,0,0,Mobile,0,1,0,1,0-60s,Low (<=60s),Browse only,1660347706f6
+SES00243,U04136,Confirmation,P0276,233,1,0,Mobile,0,1,0,1,181-240s,High (>180s),Cart abandoned,9efa803949c8
+SES00244,U06013,Confirmation,P0478,193,0,0,Tablet,0,1,0,1,181-240s,High (>180s),Browse only,1e18a1e3ec44
+SES00245,U09035,Product,P0394,196,1,0,Tablet,0,0,0,0,181-240s,High (>180s),Cart abandoned,8e1974890d16
+SES00246,U01250,Home,P0435,132,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,a1a675be6876
+SES00247,U05617,Product,P0427,59,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,b4db88399f77
+SES00248,U04773,Category,P0243,150,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,0a9fe9f3ac18
+SES00249,U08254,Product,P0224,70,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,0816f227eb55
+SES00250,U09226,Product,P0026,109,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,d1e6b8d14182
+SES00251,U02575,Home,P0331,84,1,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,0fdb6e4af281
+SES00252,U01357,Cart,P0174,67,0,1,Desktop,1,0,0,1,61-120s,Medium (61-180s),Purchase (no cart),2c9032fe8c34
+SES00253,U04875,Confirmation,P0019,172,0,0,Desktop,0,1,0,1,121-180s,Medium (61-180s),Browse only,e0846fc37cba
+SES00254,U05832,Confirmation,P0246,39,1,0,Desktop,0,1,0,1,0-60s,Low (<=60s),Cart abandoned,a9763da8c265
+SES00255,U05801,Confirmation,P0062,54,0,1,Tablet,1,0,0,1,0-60s,Low (<=60s),Purchase (no cart),8a77d2adccac
+SES00256,U09053,Home,P0315,232,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,ca37efdad261
+SES00257,U05173,Product,P0396,280,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,caa66c428ba0
+SES00258,U02719,Category,P0254,6,0,1,Tablet,1,0,1,1,0-60s,Low (<=60s),Purchase (no cart),c6da40c4d65f
+SES00259,U02432,Confirmation,P0336,245,0,0,Desktop,0,1,0,1,241-300s,High (>180s),Browse only,d1fff759d96d
+SES00260,U04153,Home,P0283,47,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,586e9f938be2
+SES00261,U05209,Category,P0395,221,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,65739fafdb0a
+SES00262,U03253,Cart,P0333,254,1,0,Desktop,0,0,0,0,241-300s,High (>180s),Cart abandoned,23cfa78cc817
+SES00263,U07068,Home,P0393,60,0,1,Desktop,1,0,1,1,0-60s,Low (<=60s),Purchase (no cart),4f06b3c766db
+SES00264,U04186,Cart,P0448,52,1,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,1f2d202e6fca
+SES00265,U01862,Home,P0349,107,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,c802708e196c
+SES00266,U08307,Confirmation,P0275,124,0,0,Desktop,0,1,0,1,121-180s,Medium (61-180s),Browse only,0040641047c0
+SES00267,U07627,Home,P0239,147,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,cd229a4f5bc4
+SES00268,U05925,Checkout,P0329,168,0,1,Mobile,1,0,0,1,121-180s,Medium (61-180s),Purchase (no cart),79158a09f036
+SES00269,U05297,Checkout,P0392,18,0,1,Desktop,1,0,0,1,0-60s,Low (<=60s),Purchase (no cart),44495597861e
+SES00270,U04636,Cart,P0245,6,1,1,Tablet,0,0,0,0,0-60s,Low (<=60s),Cart + Purchase,3bd20d3770a0
+SES00271,U05664,Confirmation,P0293,251,0,1,Desktop,1,0,0,1,241-300s,High (>180s),Purchase (no cart),f63c5c9330d9
+SES00272,U00095,Product,P0436,7,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,9bbdc044e89d
+SES00273,U02375,Category,P0053,88,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,3b9269aa257f
+SES00274,U04428,Confirmation,P0267,200,0,0,Desktop,0,1,0,1,181-240s,High (>180s),Browse only,117258e243c4
+SES00275,U07585,Cart,P0001,137,1,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,52e8c464d642
+SES00276,U01899,Product,P0264,33,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,6a4868fda290
+SES00277,U08519,Cart,P0254,126,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,0044f58179c5
+SES00278,U06078,Confirmation,P0388,61,1,0,Mobile,0,1,0,1,61-120s,Medium (61-180s),Cart abandoned,c749fe5c771b
+SES00279,U08855,Home,P0363,37,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,c31c78e0665e
+SES00280,U09448,Category,P0448,273,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,ab541a5f04c8
+SES00281,U09207,Category,P0480,139,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,6d04e06ec867
+SES00282,U04837,Cart,P0393,113,1,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,1cda65f6f535
+SES00283,U07333,Home,P0054,71,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,b57af0590f0b
+SES00284,U06651,Product,P0307,93,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,e176ae6b4a9e
+SES00285,U07597,Home,P0228,134,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,531c963c7b05
+SES00286,U01819,Confirmation,P0326,172,1,0,Desktop,0,1,0,1,121-180s,Medium (61-180s),Cart abandoned,8d40f1ffac84
+SES00287,U06939,Checkout,P0027,126,1,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,564e48999e8d
+SES00288,U07694,Category,P0036,134,0,1,Desktop,1,0,1,1,121-180s,Medium (61-180s),Purchase (no cart),f5b2b5eb0085
+SES00289,U06490,Confirmation,P0211,221,0,0,Desktop,0,1,0,1,181-240s,High (>180s),Browse only,e878638375cc
+SES00290,U05779,Home,P0017,188,0,1,Tablet,1,0,1,1,181-240s,High (>180s),Purchase (no cart),b396df898ed2
+SES00291,U06250,Cart,P0387,211,0,1,Tablet,1,0,0,1,181-240s,High (>180s),Purchase (no cart),6d2c14f67326
+SES00292,U04424,Category,P0129,148,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,ccab8c9ad217
+SES00293,U04265,Product,P0365,125,0,1,Mobile,1,0,1,1,121-180s,Medium (61-180s),Purchase (no cart),5037e51efc30
+SES00294,U01351,Cart,P0375,164,0,1,Mobile,1,0,0,1,121-180s,Medium (61-180s),Purchase (no cart),96e9ec3a1e3e
+SES00295,U08017,Confirmation,P0334,283,0,0,Tablet,0,1,0,1,241-300s,High (>180s),Browse only,8165abe6671e
+SES00296,U08423,Confirmation,P0298,99,0,0,Desktop,0,1,0,1,61-120s,Medium (61-180s),Browse only,14b669368af1
+SES00297,U05280,Checkout,P0331,238,0,0,Mobile,0,0,0,0,181-240s,High (>180s),Browse only,4d67c4080062
+SES00298,U06621,Confirmation,P0046,109,1,1,Mobile,0,0,0,0,61-120s,Medium (61-180s),Cart + Purchase,f1836424ae45
+SES00299,U02384,Category,P0036,199,0,1,Desktop,1,0,1,1,181-240s,High (>180s),Purchase (no cart),db63de4da0c4
+SES00300,U08941,Product,P0255,282,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,7c417c6f1ce1
+SES00301,U06525,Checkout,P0124,16,1,1,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart + Purchase,bd22c0630767
+SES00302,U07979,Checkout,P0244,160,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,9a16db000ef4
+SES00303,U00985,Home,P0308,103,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,872a16616247
+SES00304,U02886,Product,P0182,291,1,0,Mobile,0,0,0,0,241-300s,High (>180s),Cart abandoned,5944cb3d5fa3
+SES00305,U09572,Category,P0478,14,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,1b10838fda24
+SES00306,U01251,Checkout,P0190,192,0,0,Mobile,0,0,0,0,181-240s,High (>180s),Browse only,de740fc5634e
+SES00307,U07978,Product,P0143,262,0,0,Tablet,0,0,0,0,241-300s,High (>180s),Browse only,a886d3cb5d6f
+SES00308,U04688,Cart,P0002,175,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,e20bcbc4fe67
+SES00309,U03899,Checkout,P0104,205,1,0,Mobile,0,0,0,0,181-240s,High (>180s),Cart abandoned,51066234f556
+SES00310,U09160,Confirmation,P0132,143,0,0,Tablet,0,1,0,1,121-180s,Medium (61-180s),Browse only,c1b36cadb8d6
+SES00311,U02233,Home,P0436,107,1,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,456cf5cc7bce
+SES00312,U06831,Home,P0133,237,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,470c3cc9033b
+SES00313,U02579,Checkout,P0391,39,1,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,39c2c2cff3e1
+SES00314,U01108,Confirmation,P0357,103,0,1,Desktop,1,0,0,1,61-120s,Medium (61-180s),Purchase (no cart),017ae9099a94
+SES00315,U05523,Confirmation,P0471,75,1,0,Desktop,0,1,0,1,61-120s,Medium (61-180s),Cart abandoned,2f6510a27ceb
+SES00316,U02779,Checkout,P0409,76,0,1,Mobile,1,0,0,1,61-120s,Medium (61-180s),Purchase (no cart),28b3eac9dc9e
+SES00317,U06575,Cart,P0391,128,1,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,9a46d7583205
+SES00318,U02763,Confirmation,P0420,295,0,0,Desktop,0,1,0,1,241-300s,High (>180s),Browse only,3122ee3ee395
+SES00319,U09904,Home,P0200,265,0,0,Tablet,0,0,0,0,241-300s,High (>180s),Browse only,62d84ce41db2
+SES00320,U02381,Home,P0027,147,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,c60ae9db3909
+SES00321,U03640,Checkout,P0334,279,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,b20a2c2f1d6d
+SES00322,U03484,Checkout,P0492,273,1,0,Desktop,0,0,0,0,241-300s,High (>180s),Cart abandoned,52366ffaed61
+SES00323,U07845,Confirmation,P0453,13,1,0,Tablet,0,1,0,1,0-60s,Low (<=60s),Cart abandoned,317125c0d6e2
+SES00324,U04618,Product,P0091,64,0,1,Mobile,1,0,1,1,61-120s,Medium (61-180s),Purchase (no cart),3e0a1043745c
+SES00325,U05715,Confirmation,P0157,276,0,0,Mobile,0,1,0,1,241-300s,High (>180s),Browse only,428317670ad3
+SES00326,U04587,Checkout,P0360,155,1,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,20dad5ed2022
+SES00327,U04156,Confirmation,P0430,41,0,0,Desktop,0,1,0,1,0-60s,Low (<=60s),Browse only,248814941467
+SES00328,U01077,Cart,P0309,273,0,0,Tablet,0,0,0,0,241-300s,High (>180s),Browse only,29c18cacbb44
+SES00329,U02237,Checkout,P0324,184,1,0,Tablet,0,0,0,0,181-240s,High (>180s),Cart abandoned,0100805b7975
+SES00330,U03036,Category,P0474,130,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,4a02333cbdd6
+SES00331,U05860,Product,P0406,70,0,1,Tablet,1,0,1,1,61-120s,Medium (61-180s),Purchase (no cart),0758d7f71d99
+SES00332,U01993,Home,P0350,28,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,b3c013cc0029
+SES00333,U07090,Product,P0035,86,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,d27d9bbc7bec
+SES00334,U05505,Home,P0093,171,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,b354b866efaf
+SES00335,U04543,Product,P0208,99,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,edae3348868d
+SES00336,U02508,Confirmation,P0016,84,0,0,Desktop,0,1,0,1,61-120s,Medium (61-180s),Browse only,eaa3c796eebe
+SES00337,U01113,Checkout,P0456,184,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,e3f2b40a6093
+SES00338,U06006,Category,P0378,9,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,bd1d3bdeeec4
+SES00339,U04080,Home,P0420,40,1,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,51bc72d6ef05
+SES00340,U08282,Cart,P0029,288,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,796940f5a87f
+SES00341,U03033,Category,P0199,84,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,7ffa868e8e63
+SES00342,U02347,Home,P0354,143,0,1,Desktop,1,0,1,1,121-180s,Medium (61-180s),Purchase (no cart),fad0c5ba8876
+SES00343,U04161,Category,P0252,194,1,0,Tablet,0,0,0,0,181-240s,High (>180s),Cart abandoned,64d0ec53f151
+SES00344,U05118,Cart,P0017,91,0,1,Mobile,1,0,0,1,61-120s,Medium (61-180s),Purchase (no cart),b4c59d540c91
+SES00345,U00019,Home,P0447,221,0,0,Mobile,0,0,0,0,181-240s,High (>180s),Browse only,678d5b071846
+SES00346,U01476,Home,P0214,15,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,fd6292b8170f
+SES00347,U04598,Home,P0081,197,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,56952ea19f5d
+SES00348,U08029,Product,P0037,36,0,1,Desktop,1,0,1,1,0-60s,Low (<=60s),Purchase (no cart),72b445502173
+SES00349,U08584,Cart,P0314,8,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,5a4be0bc9d97
+SES00350,U03271,Checkout,P0467,269,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,6d2c0f93d9c9
+SES00351,U05695,Cart,P0383,275,0,1,Tablet,1,0,0,1,241-300s,High (>180s),Purchase (no cart),73970a78277e
+SES00352,U01897,Product,P0368,94,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,28ea7880d509
+SES00353,U06240,Confirmation,P0316,269,1,0,Desktop,0,1,0,1,241-300s,High (>180s),Cart abandoned,594308e2e668
+SES00354,U09843,Cart,P0283,216,1,0,Mobile,0,0,0,0,181-240s,High (>180s),Cart abandoned,f840e7a1efc9
+SES00355,U06337,Cart,P0095,15,1,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,0f0cfd44aad7
+SES00356,U00855,Cart,P0026,103,1,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,d703587cac35
+SES00357,U04295,Checkout,P0076,99,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,898e023107f9
+SES00358,U01802,Cart,P0436,52,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,9a0c7370d053
+SES00359,U00725,Confirmation,P0396,38,0,1,Desktop,1,0,0,1,0-60s,Low (<=60s),Purchase (no cart),b518431e365d
+SES00360,U09970,Checkout,P0110,57,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,1c94a4e3a8e2
+SES00361,U06666,Category,P0484,143,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,dbcccd407400
+SES00362,U05956,Confirmation,P0078,150,0,1,Desktop,1,0,0,1,121-180s,Medium (61-180s),Purchase (no cart),9bddd680a72a
+SES00363,U04521,Category,P0006,118,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,be48fcbd0103
+SES00364,U05673,Confirmation,P0035,97,0,0,Mobile,0,1,0,1,61-120s,Medium (61-180s),Browse only,0a6e9dbc596d
+SES00365,U03514,Product,P0490,122,1,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,a15b7773463c
+SES00366,U01724,Cart,P0283,259,1,1,Tablet,0,0,0,0,241-300s,High (>180s),Cart + Purchase,cdfc4bc863d1
+SES00367,U09917,Cart,P0062,191,1,1,Mobile,0,0,0,0,181-240s,High (>180s),Cart + Purchase,9b31d78f237e
+SES00368,U04637,Confirmation,P0040,61,0,1,Tablet,1,0,0,1,61-120s,Medium (61-180s),Purchase (no cart),5229420a9387
+SES00369,U06614,Home,P0249,105,1,1,Tablet,0,0,1,1,61-120s,Medium (61-180s),Cart + Purchase,7ca73eb3fd28
+SES00370,U05757,Cart,P0028,222,0,1,Desktop,1,0,0,1,181-240s,High (>180s),Purchase (no cart),5a744c9ae40e
+SES00371,U06344,Home,P0310,183,1,0,Desktop,0,0,0,0,181-240s,High (>180s),Cart abandoned,42807e33b43a
+SES00372,U02140,Home,P0274,279,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,836a506abd21
+SES00373,U09431,Category,P0489,155,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,80d74327eeba
+SES00374,U00589,Category,P0254,41,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,aa288a26d7ad
+SES00375,U09705,Cart,P0256,29,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,388006d17dd4
+SES00376,U03695,Confirmation,P0371,65,0,0,Mobile,0,1,0,1,61-120s,Medium (61-180s),Browse only,fe45f76b1821
+SES00377,U06654,Home,P0160,95,1,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,2ad03852e644
+SES00378,U01049,Home,P0314,72,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,ec69d70d2170
+SES00379,U05061,Home,P0058,289,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,15bb992254fb
+SES00380,U04469,Checkout,P0484,147,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,9d7ced58ad16
+SES00381,U00887,Checkout,P0154,63,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,27707adbedb0
+SES00382,U04831,Checkout,P0312,15,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,678ac0290a68
+SES00383,U04149,Checkout,P0337,30,1,1,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart + Purchase,c67708679adf
+SES00384,U00813,Checkout,P0447,208,1,0,Desktop,0,0,0,0,181-240s,High (>180s),Cart abandoned,24db64b55aae
+SES00385,U05128,Home,P0399,135,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,f357187ab5d2
+SES00386,U04780,Cart,P0147,99,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,8f275c98a372
+SES00387,U09666,Product,P0361,237,0,1,Desktop,1,0,1,1,181-240s,High (>180s),Purchase (no cart),e55d266618d9
+SES00388,U04645,Confirmation,P0319,127,0,0,Tablet,0,1,0,1,121-180s,Medium (61-180s),Browse only,a601f092ee35
+SES00389,U05360,Category,P0142,101,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,c1ea992f7d84
+SES00390,U06679,Home,P0025,122,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,258eae054f04
+SES00391,U08834,Category,P0080,102,1,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,4f10ada4bc8c
+SES00392,U05940,Category,P0448,151,1,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,7b2ebe5612b4
+SES00393,U07132,Confirmation,P0160,208,0,1,Mobile,1,0,0,1,181-240s,High (>180s),Purchase (no cart),6e1d757841df
+SES00394,U06407,Checkout,P0164,162,1,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,1862574c5f82
+SES00395,U01093,Confirmation,P0229,190,0,0,Mobile,0,1,0,1,181-240s,High (>180s),Browse only,968616a00735
+SES00396,U00414,Home,P0176,214,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,945f4b7a4698
+SES00397,U08020,Home,P0208,264,1,0,Mobile,0,0,0,0,241-300s,High (>180s),Cart abandoned,4c4b3371e9a8
+SES00398,U00125,Checkout,P0493,191,0,1,Tablet,1,0,0,1,181-240s,High (>180s),Purchase (no cart),d04fa1909acc
+SES00399,U02752,Home,P0354,171,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,960a4a0039cb
+SES00400,U00006,Category,P0040,87,0,1,Mobile,1,0,1,1,61-120s,Medium (61-180s),Purchase (no cart),b317186230d6
+SES00401,U02012,Checkout,P0324,289,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,75f62f86f316
+SES00402,U04022,Cart,P0442,159,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,00328c2c8363
+SES00403,U00993,Cart,P0299,73,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,87675b3a223f
+SES00404,U03210,Confirmation,P0009,275,0,1,Mobile,1,0,0,1,241-300s,High (>180s),Purchase (no cart),cb445ddc492c
+SES00405,U03185,Checkout,P0200,143,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,3b8f598b641c
+SES00406,U04422,Checkout,P0135,12,1,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,62460eaa2916
+SES00407,U08695,Home,P0113,161,1,1,Tablet,0,0,1,1,121-180s,Medium (61-180s),Cart + Purchase,a6b238977112
+SES00408,U02150,Confirmation,P0373,149,0,0,Tablet,0,1,0,1,121-180s,Medium (61-180s),Browse only,b80f4121a2f1
+SES00409,U05564,Checkout,P0256,265,0,0,Tablet,0,0,0,0,241-300s,High (>180s),Browse only,1b15f2d5bf28
+SES00410,U01615,Home,P0422,10,1,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,54852b313bd2
+SES00411,U05684,Cart,P0280,86,0,0,Tablet,0,0,0,0,61-120s,Medium (61-180s),Browse only,0c72e690ddb3
+SES00412,U00301,Home,P0414,122,0,1,Tablet,1,0,1,1,121-180s,Medium (61-180s),Purchase (no cart),52dba2f6e397
+SES00413,U01812,Home,P0166,275,1,0,Mobile,0,0,0,0,241-300s,High (>180s),Cart abandoned,fe8f742594b2
+SES00414,U06278,Checkout,P0235,61,0,1,Tablet,1,0,0,1,61-120s,Medium (61-180s),Purchase (no cart),e84b28e1951c
+SES00415,U04925,Checkout,P0039,230,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,32595e5fb0c1
+SES00416,U06471,Confirmation,P0111,249,1,1,Mobile,0,0,0,0,241-300s,High (>180s),Cart + Purchase,a278e707fbae
+SES00417,U08434,Category,P0250,194,1,0,Desktop,0,0,0,0,181-240s,High (>180s),Cart abandoned,5f28c70858ad
+SES00418,U05148,Cart,P0301,63,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,59ef7a0aefb9
+SES00419,U04163,Category,P0146,42,1,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,d510ebe6dc06
+SES00420,U08670,Product,P0335,284,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,34a8f4ef9bb0
+SES00421,U08620,Product,P0499,214,0,0,Mobile,0,0,0,0,181-240s,High (>180s),Browse only,7bdba4a5a1cb
+SES00422,U09747,Cart,P0071,207,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,5a1e3355c5cc
+SES00423,U07791,Checkout,P0053,206,0,0,Tablet,0,0,0,0,181-240s,High (>180s),Browse only,e7fa8b6fa439
+SES00424,U06662,Cart,P0164,22,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,ec7c9c11d864
+SES00425,U06212,Cart,P0463,31,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,298bf027a104
+SES00426,U03278,Cart,P0328,92,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,9618d9e68e60
+SES00427,U08071,Product,P0329,284,1,0,Mobile,0,0,0,0,241-300s,High (>180s),Cart abandoned,4b3b02d4d3e6
+SES00428,U09657,Checkout,P0422,188,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,d478d38c5e60
+SES00429,U00129,Checkout,P0311,102,1,1,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart + Purchase,ab31edc70a64
+SES00430,U07818,Cart,P0093,275,1,0,Desktop,0,0,0,0,241-300s,High (>180s),Cart abandoned,5723647a0ba8
+SES00431,U09851,Confirmation,P0122,235,1,0,Mobile,0,1,0,1,181-240s,High (>180s),Cart abandoned,f6304c7f3762
+SES00432,U06162,Confirmation,P0299,228,1,0,Tablet,0,1,0,1,181-240s,High (>180s),Cart abandoned,12ce2cd0724b
+SES00433,U05799,Checkout,P0407,154,0,1,Desktop,1,0,0,1,121-180s,Medium (61-180s),Purchase (no cart),b2f22fc363d6
+SES00434,U04506,Home,P0118,254,1,0,Tablet,0,0,0,0,241-300s,High (>180s),Cart abandoned,87033a449f1c
+SES00435,U06164,Checkout,P0482,290,1,0,Desktop,0,0,0,0,241-300s,High (>180s),Cart abandoned,f636ad565ee4
+SES00436,U08833,Cart,P0059,190,1,0,Mobile,0,0,0,0,181-240s,High (>180s),Cart abandoned,67f04daf3775
+SES00437,U04251,Category,P0246,117,0,1,Tablet,1,0,1,1,61-120s,Medium (61-180s),Purchase (no cart),01e7e81a880e
+SES00438,U02374,Category,P0253,274,1,0,Mobile,0,0,0,0,241-300s,High (>180s),Cart abandoned,3c2ed6d1912b
+SES00439,U07790,Category,P0500,53,0,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Browse only,fbbb08c9216d
+SES00440,U05344,Category,P0459,231,1,0,Tablet,0,0,0,0,181-240s,High (>180s),Cart abandoned,69f98b8fff6a
+SES00441,U05459,Product,P0459,242,1,0,Tablet,0,0,0,0,241-300s,High (>180s),Cart abandoned,e13ce121ac1d
+SES00442,U09444,Home,P0081,232,0,1,Tablet,1,0,1,1,181-240s,High (>180s),Purchase (no cart),ba0c9128df1d
+SES00443,U01507,Category,P0307,17,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,5300fe354df1
+SES00444,U02871,Checkout,P0500,34,1,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,32729029f2d4
+SES00445,U04483,Checkout,P0195,244,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,2587fe8d01ae
+SES00446,U08669,Cart,P0103,31,1,1,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart + Purchase,b82bee29bcc2
+SES00447,U09891,Confirmation,P0448,32,0,0,Tablet,0,1,0,1,0-60s,Low (<=60s),Browse only,6c7d43861831
+SES00448,U08770,Confirmation,P0107,98,0,0,Mobile,0,1,0,1,61-120s,Medium (61-180s),Browse only,4db8bb670e86
+SES00449,U05453,Category,P0344,51,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,31c8790a57ac
+SES00450,U09344,Cart,P0125,287,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,f3c1ce5b1f17
+SES00451,U03763,Cart,P0431,115,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,bd59ecb28659
+SES00452,U02480,Category,P0121,22,1,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,593fab5fa454
+SES00453,U00181,Home,P0138,142,0,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Browse only,fe80e9bedee9
+SES00454,U04317,Category,P0377,57,1,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,d9d8132fb10d
+SES00455,U09244,Category,P0214,296,0,1,Mobile,1,0,1,1,241-300s,High (>180s),Purchase (no cart),644b254e887f
+SES00456,U08023,Product,P0136,296,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,6ddf49a3bd40
+SES00457,U07881,Checkout,P0048,132,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,a95f5d844f01
+SES00458,U05072,Cart,P0180,166,0,1,Tablet,1,0,0,1,121-180s,Medium (61-180s),Purchase (no cart),b2c78ea54526
+SES00459,U02622,Confirmation,P0343,255,1,0,Tablet,0,1,0,1,241-300s,High (>180s),Cart abandoned,f19fa3bfb4a3
+SES00460,U03206,Product,P0122,169,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,09a66c536ec1
+SES00461,U07971,Product,P0207,265,0,0,Mobile,0,0,0,0,241-300s,High (>180s),Browse only,f2e6f8d92a7d
+SES00462,U03028,Category,P0121,103,0,1,Mobile,1,0,1,1,61-120s,Medium (61-180s),Purchase (no cart),cb9a12c3d01e
+SES00463,U05481,Confirmation,P0299,245,0,0,Tablet,0,1,0,1,241-300s,High (>180s),Browse only,a7d44f769aa6
+SES00464,U03009,Home,P0391,251,1,0,Desktop,0,0,0,0,241-300s,High (>180s),Cart abandoned,500c2a7f2758
+SES00465,U05363,Checkout,P0194,17,1,1,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart + Purchase,63aeff69f10e
+SES00466,U07827,Product,P0013,18,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,422ae3bb484d
+SES00467,U00167,Product,P0077,97,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,931dfdbdd055
+SES00468,U07967,Product,P0438,151,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,7be8caeda177
+SES00469,U05599,Category,P0370,231,1,0,Mobile,0,0,0,0,181-240s,High (>180s),Cart abandoned,58e3914f0fd2
+SES00470,U07666,Product,P0014,20,1,0,Mobile,0,0,0,0,0-60s,Low (<=60s),Cart abandoned,e6673b9a3eeb
+SES00471,U01231,Product,P0092,233,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,134708353077
+SES00472,U02696,Confirmation,P0135,58,0,0,Tablet,0,1,0,1,0-60s,Low (<=60s),Browse only,066b8c13ab7c
+SES00473,U06738,Category,P0070,145,1,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,7cc4aa3a0990
+SES00474,U00932,Product,P0235,40,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,130c3b7e0339
+SES00475,U08275,Confirmation,P0373,300,0,0,Desktop,0,1,0,1,241-300s,High (>180s),Browse only,b3724a248a71
+SES00476,U08768,Cart,P0451,282,1,1,Mobile,0,0,0,0,241-300s,High (>180s),Cart + Purchase,e7576308c801
+SES00477,U06990,Confirmation,P0028,284,0,0,Desktop,0,1,0,1,241-300s,High (>180s),Browse only,de23d15a883d
+SES00478,U01168,Checkout,P0148,122,0,0,Tablet,0,0,0,0,121-180s,Medium (61-180s),Browse only,2ecc61e742b8
+SES00479,U06149,Home,P0260,260,0,0,Tablet,0,0,0,0,241-300s,High (>180s),Browse only,9e580419d4e3
+SES00480,U07858,Category,P0164,20,0,1,Tablet,1,0,1,1,0-60s,Low (<=60s),Purchase (no cart),84351418c723
+SES00481,U05536,Home,P0106,180,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,3d4ed785946a
+SES00482,U04926,Home,P0017,139,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,cc9ff8c78667
+SES00483,U00703,Confirmation,P0070,188,1,0,Desktop,0,1,0,1,181-240s,High (>180s),Cart abandoned,5f80999e0ef4
+SES00484,U05128,Product,P0497,151,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,f357187ab5d2
+SES00485,U06561,Checkout,P0161,22,1,1,Tablet,0,0,0,0,0-60s,Low (<=60s),Cart + Purchase,72b4da9f866f
+SES00486,U02342,Confirmation,P0132,298,1,0,Tablet,0,1,0,1,241-300s,High (>180s),Cart abandoned,31b918124353
+SES00487,U06641,Category,P0089,127,1,0,Mobile,0,0,0,0,121-180s,Medium (61-180s),Cart abandoned,98ab7d10d272
+SES00488,U04238,Checkout,P0499,104,0,0,Mobile,0,0,0,0,61-120s,Medium (61-180s),Browse only,4db59b69b471
+SES00489,U01759,Product,P0096,88,0,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Browse only,6dbf9925eb3a
+SES00490,U05814,Category,P0287,158,0,0,Desktop,0,0,0,0,121-180s,Medium (61-180s),Browse only,f1a6482d32ea
+SES00491,U05746,Product,P0244,270,0,0,Tablet,0,0,0,0,241-300s,High (>180s),Browse only,31ef639ac77c
+SES00492,U01845,Cart,P0038,41,0,0,Tablet,0,0,0,0,0-60s,Low (<=60s),Browse only,cc58301248a9
+SES00493,U02649,Cart,P0073,198,0,0,Desktop,0,0,0,0,181-240s,High (>180s),Browse only,00a1e63c32b1
+SES00494,U07080,Cart,P0033,285,1,0,Tablet,0,0,0,0,241-300s,High (>180s),Cart abandoned,dcbee6e94e3d
+SES00495,U07018,Category,P0185,296,0,0,Desktop,0,0,0,0,241-300s,High (>180s),Browse only,8ca460e5562d
+SES00496,U02849,Product,P0229,100,1,0,Desktop,0,0,0,0,61-120s,Medium (61-180s),Cart abandoned,585560906ca5
+SES00497,U00427,Cart,P0308,47,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,51ae2f35c429
+SES00498,U04690,Product,P0308,237,0,0,Mobile,0,0,0,0,181-240s,High (>180s),Browse only,fa3217d199d5
+SES00499,U02355,Category,P0167,263,0,0,Tablet,0,0,0,0,241-300s,High (>180s),Browse only,585350778cd1
+SES00500,U00300,Checkout,P0211,24,0,0,Desktop,0,0,0,0,0-60s,Low (<=60s),Browse only,f0f31ed247f7

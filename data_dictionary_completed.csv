@@ -1,0 +1,17 @@
+column_name,data_type,sample_values,nullable,description,allowed_values_or_range,source,privacy_note
+session_id,string (ID),SES00001 | SES00002 | SES00003,No,Unique identifier of one browsing session; one row per session. Primary key.,SES00001-SES00500 (pattern SES + 5 digits),Original,No
+user_id,"string (ID, pseudonymised)",U09458 | U09200 | U07053,No,"Anonymised token for the visitor who owned the session. Contains no name, email, phone or IP. 490 distinct tokens; 10 appear in two sessions.",U00001-U10000 (pattern U + 5 digits),Original,Pseudonymous - treat as personal data under DPDP Act 2023
+page_type,"string (categorical, 6 levels)",Category | Home | Home,No,"Page type recorded for the session record. Ordered by journey stage: Home, Category, Product, Cart, Checkout, Confirmation.",Home | Category | Product | Cart | Checkout | Confirmation,Original,No
+product_id,string (ID),P0224 | P0013 | P0169,No,Identifier of the product associated with the session. 307 distinct products.,P0001-P0500 (pattern P + 4 digits),Original,No
+time_on_page_s,integer (seconds),243 | 67 | 21,No,"Time spent on the recorded page, in seconds. Mean 150 s, median 147.5 s; distribution is close to uniform.",5-300,Original,No
+add_to_cart,integer (binary flag),0 | 0 | 0,No,"1 if the session added at least one item to the cart, else 0. 175 of 500 sessions (35.0%).",0 | 1,Original,No
+purchased,integer (binary flag),0 | 1 | 0,No,"1 if the session ended in a purchase, else 0. 106 of 500 sessions (21.2%). 74 of these have add_to_cart = 0 (see flag_purchase_without_cart).",0 | 1,Original,No
+device_type,"string (categorical, 3 levels)",Mobile | Tablet | Desktop,No,"Device class used in the session: Desktop 171, Tablet 171, Mobile 158.",Desktop | Mobile | Tablet,Original,No
+flag_purchase_without_cart,integer (binary flag),0 | 1 | 0,No,Data-quality flag: purchased = 1 but add_to_cart = 0 (logically inconsistent). 74 rows.,0 | 1,Derived,No
+flag_confirmation_no_purchase,integer (binary flag),0 | 0 | 0,No,Data-quality flag: page_type = Confirmation but purchased = 0. 60 rows.,0 | 1,Derived,No
+flag_purchase_on_early_page,integer (binary flag),0 | 1 | 0,No,"Data-quality flag: purchased = 1 while page_type is Home, Category or Product. 56 rows.",0 | 1,Derived,No
+flag_any_inconsistency,integer (binary flag),0 | 1 | 0,No,1 if any of the three flags above is 1. 151 rows (30.2%).,0 | 1,Derived,No
+time_bucket,"string (categorical, 5 levels)",241-300s | 61-120s | 0-60s,No,time_on_page_s grouped into 60-second bands.,0-60s | 61-120s | 121-180s | 181-240s | 241-300s,Derived,No
+engagement,"string (categorical, 3 levels)",High (>180s) | Medium (61-180s) | Low (<=60s),No,"Engagement level from time_on_page_s: Low (<=60 s), Medium (61-180 s), High (>180 s).",Low (<=60s) | Medium (61-180s) | High (>180s),Derived,No
+session_outcome,"string (categorical, 4 levels)",Browse only | Purchase (no cart) | Browse only,No,"Combined outcome: Browse only, Cart abandoned, Cart + Purchase, Purchase (no cart).",Browse only | Cart abandoned | Cart + Purchase | Purchase (no cart),Derived,No
+user_key,string (hash),813d528817d1 | cc5af78b9731 | 48aeb731abbc,No,"Salted SHA-256 hash (first 12 hex chars) of user_id, for joins without exposing the raw token. Demo salt - rotate and keep secret in production.",12 hex characters,Derived,Pseudonymous
